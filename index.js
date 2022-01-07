@@ -22,7 +22,7 @@ function divide() {
 }
 
 function multiply() {
-    let mult = num1 * num2
+    let multi = num1 * num2
     sumEl.textContent = "Answer: "+ mult
 }
 // Call the correct function when the user clicks on one of the buttons
